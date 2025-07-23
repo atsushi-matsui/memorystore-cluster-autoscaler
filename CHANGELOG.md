@@ -1,5 +1,12 @@
 # Changelog
 
+## [3.0.1](https://github.com/GoogleCloudPlatform/memorystore-cluster-autoscaler/compare/v3.0.0...v3.0.1) (2025-07-23)
+
+
+### Bug Fixes
+
+* **docs:** correct casing for VALKEY engine variable in Readme ([a63e60f](https://github.com/GoogleCloudPlatform/memorystore-cluster-autoscaler/commit/a63e60f57566e737f888a270fac4632fd91a891c))
+
 ## [3.0.0](https://github.com/GoogleCloudPlatform/memorystore-cluster-autoscaler/compare/v2.0.1...v3.0.0) (2025-03-18)
 
 
